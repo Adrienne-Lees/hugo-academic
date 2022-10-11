@@ -30,11 +30,11 @@ education:
     - course: Bachelor of Social Science (Hons), 2015
       institution: University of Cape Town
 superuser: true
-last_name: Bighetti
+last_name: Lees
 highlight_name: true
-first_name: Alice
-email: ""
+first_name: Adrienne
+email: "a.lees@ids.ac.uk"
 ---
-I﻿ am a PhD Student in Economics at the University of Sussex and a Research Officer at the [International Centre for Tax and Development](https://www.ictd.ac/), a research centre based at the [Institute of Development Studies](https://www.ids.ac.uk/). My PhD research examines the effects of digitalisation on tax compliance in low-income countries, with a particular focus on Uganda.
+I am a PhD Student in Economics at the University of Sussex and a Research Officer at the [International Centre for Tax and Development](https://www.ictd.ac/), a research centre based at the [Institute of Development Studies](https://www.ids.ac.uk/). My PhD research examines the effects of digitalisation on tax compliance in low-income countries, with a particular focus on Uganda.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}
